@@ -1,4 +1,4 @@
-public class FibonacciSequence {
+public class fibo {
     public static void main(String[] args) {
         int terms = 10;  // Set the number of terms here
         int first = 0, second = 1;
